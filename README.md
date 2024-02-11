@@ -7,7 +7,12 @@ Used Maven for dependency management.
 An executable jar file will be created using maven jar plugin.
 Junits are written for unit testing.
 
-Problem description:
+# Usage: 
+To run the program as a single java file, Please use the file ScoreBoard.java at the root of repository with command line arguments. Ex. java ScoreBoard.java Input.txt Output.txt
+ 
+
+
+# Problem description:
 
 Write a program which reads in descriptions
 of tennis matches and displays the current score in each match.	

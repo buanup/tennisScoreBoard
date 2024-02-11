@@ -35,7 +35,7 @@ class ScoreBoardTest {
 		String expectedContent = readFileContent(expectedFilePath);
 		String actualContent = readFileContent(actualFilePath);
 
-		assertEquals(expectedContent, actualContent, "File contents are not same");
+		assertEquals(expectedContent, actualContent, "File contents are not same.");
 	}
 
 	private String readFileContent(String filePath) throws IOException {
