@@ -10,7 +10,7 @@ Junits are written for unit testing.
 # Usage: 
 To run the program as a single java file, Please use the file ScoreBoard.java at the root of repository with command line arguments. Ex. java ScoreBoard.java Input.txt Output.txt
  
-
+For executable jar, use tennisScoreBoard-1.0.0.jar at the root of the repository with command line arguments. Ex. java -jar tennisScoreBoard-1.0.0.jar Input.txt Output.txt  
 
 # Problem description:
 
